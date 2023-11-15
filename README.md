@@ -3,6 +3,7 @@ The Spring Boot project focuses on the efficient management of "categorie" (cate
 
  Core Entities:
 Categorie (Category): This entity represents the categories to which articles belong. It serves as an organizational unit to classify and group related articles.
+
 Article: The Article entity encapsulates information about individual articles. Each article is associated with a specific category, linking the two entities in a meaningful manner.
    
 # Screenshots
